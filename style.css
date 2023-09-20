@@ -1,1 +1,6 @@
-body {background: red;}
+/* * {border-style: dotted; color: red;} */
+body {
+    margin: 27px;
+}
+
+
